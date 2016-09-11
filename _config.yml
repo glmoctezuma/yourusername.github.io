@@ -9,6 +9,7 @@ github_username:  glmoctezuma
 
 gems:
   - jekyll-seo-tag
+  - jekyll-github-metadata
 
 # Build settings
 markdown: kramdown
@@ -19,6 +20,6 @@ permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
-#google_author: "a"
+#google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
