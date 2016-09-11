@@ -25,7 +25,7 @@
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
-        right: 35px;
+        right: 30px;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
@@ -57,7 +57,7 @@
 
         &:hover .trigger {
             display: block;
-            padding-bottom: 10px;
+            padding-bottom: 5px;
         }
 
         .page-link {
@@ -66,7 +66,7 @@
         }
     }
 }
-*/
+*/ 
 
 
 
@@ -223,8 +223,8 @@ h1 /* .post-title */ {
 }
 
 						.footnotes ol li {list-style-type:decimal;}
-						.footnotes ol {font-size:.85em; color:#666666;}
-
+						.footnotes ol {font-size:.85em; color:#666666;}	
+	
 html {
   overflow-y: scroll;
 }
