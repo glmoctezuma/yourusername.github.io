@@ -33,7 +33,7 @@
 
         .menu-icon {
             display: block;
-            float: left;
+            float: right;
             width: 36px;
             height: 26px;
             line-height: 0;
@@ -45,7 +45,7 @@
                 height: 15px;
 
                 path {
-                    fill: $princeton-orange;
+                    fill: $grey-color-dark;
                 }
             }
         }
@@ -57,7 +57,7 @@
 
         &:hover .trigger {
             display: block;
-            padding-bottom: 5px;
+            padding-bottom: 10px;
         }
 
         .page-link {
