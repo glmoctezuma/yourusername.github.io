@@ -19,6 +19,9 @@ jobtitle: Postdoctoral Research Fellow
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
+# Google services
+google_analytics: UA-84011332-1
+
 # SEO stuff
 #google_author: ""
 # google_site_verification: ""
