@@ -22,7 +22,7 @@ recommendations and collective choices extremely well and improves the fit over 
 models that ignore deliberation.
 <br>
 <br>
-<span style="color: blue"> [Download Paper (Last Version: September 2016)](https://www.dropbox.com/s/5kx2cnbmcrcrkrm/sequential.pdf) </span>
+<span style="color: blue"> [Download Paper (Last Version: September 2016)](https://www.dropbox.com/s/bd3tbsihtwjpanq/sequential.pdf?dl=0) </span>
 
 
 
