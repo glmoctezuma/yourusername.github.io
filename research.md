@@ -8,7 +8,7 @@ permalink: /research/
 
 * [Sequential Deliberation in Collective Decision-Making: The Case of the FOMC](/research/seq).
 
-* [Senate Dynamics in the Shadow of Money](/research/sendyn) with
+* [The Dynamics of Electoral Accountability](/research/sendyn) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
