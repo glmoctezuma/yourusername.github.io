@@ -18,7 +18,10 @@ because deliberative campaigns are more effective in changing voters’
 attitudes on gender inequality and poverty, as emphasized in parties’ platforms.
 <br>
 <br>
-<span style="color: blue"> [Download Paper (Last Version: March 2017)](https://www.dropbox.com/s/2tglschguj0c7sm/philippines.pdf?dl=0) </span>
+<span style="color: blue">
+[Download Paper (Last Version: March 2017)](https://www.dropbox.com/s/2tglschguj0c7sm/philippines.pdf?dl=0)
+</span>
+<br>
 <span style="color: blue"> [Download Appendix](https://www.dropbox.com/s/b06c627bw1c6gyf/phil_sm.pdf?dl=0) </span>
 
 
