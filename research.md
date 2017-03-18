@@ -30,9 +30,6 @@ permalink: /research/
 * The Causal Effect of Campaign Contributions on Legislators' Voting
   Behavior (with Matias Iaryczower).
 
-* The Causal Effect of Campaign Contributions on Legislators' Voting
-  Behavior (with Matias Iaryczower).
-
 * Dynamics of Electoral Coalitions (with Anderson Frey and Sergio Montero)
 
 # Publications
