@@ -6,17 +6,17 @@ permalink: /research/
 
 # Working Papers
 
-* [Sequential Deliberation in Collective Decision-Making: The Case of the FOMC](/research/seq).
+* [_Sequential Deliberation in Collective Decision-Making: The Case of the FOMC_](/research/seq).
 
-* [The Dynamics of Electoral Accountability](/research/sendyn) with
+* [_The Dynamics of Electoral Accountability_](/research/sendyn) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
-* [Policy Deliberation and Voter Persuasion: Experimental Evidence from an Election in the Philippines](/research/philippines)
+* [_Policy Deliberation and Voter Persuasion: Experimental Evidence from an Election in the Philippines_](/research/philippines)
   with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche),
   [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel Rubenson, and Cecilia Pe Lero.
 
-* [Scaling Data from Multiple Sources: Analyzing FOMC Deliberations](/research/m2ds)
+* [_Scaling Data from Multiple Sources: Analyzing FOMC Deliberations_](/research/m2ds)
   with Ted Enamorado and
   [Marc Ratkovic](http://www.princeton.edu/~ratkovic/)
 
