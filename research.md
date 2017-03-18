@@ -16,18 +16,24 @@ permalink: /research/
   with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche),
   [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel Rubenson, and Cecilia Pe Lero.
 
+* [Scaling Data from Multiple Sources: Analyzing FOMC Deliberations](/research/m2ds)
+  with Ted Enamorado and
+  [Marc Ratkovic](http://www.princeton.edu/~ratkovic/)
+
 # Work in Progress
 
 * Biases in Speech and Forecasts of FOMC Members.
 
-* Scaling Data from Multiple Sources: An Application to FOMC
-  Deliberations with Ted Enamorado and Marc Ratkovic.
-
 * Dynamic Allocation of Political Advertising in Presidential
-  Elections with Matias Iaryczower and Gabriel Katz.
+  Elections (with Matias Iaryczower and Gabriel Katz).
 
 * The Causal Effect of Campaign Contributions on Legislators' Voting
-  Behavior with Matias Iaryczower.
+  Behavior (with Matias Iaryczower).
+
+* The Causal Effect of Campaign Contributions on Legislators' Voting
+  Behavior (with Matias Iaryczower).
+
+* Dynamics of Electoral Coalitions (with Anderson Frey and Sergio Montero)
 
 # Publications
 
