@@ -15,7 +15,7 @@ gems:
 markdown: kramdown
 
 # Other options
-jobtitle: Postdoctoral Research Fellow
+jobtitle: Assistant Professor
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
