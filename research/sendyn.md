@@ -13,7 +13,7 @@ While elections can discipline elected politicians, the  power of electoral acco
  electoral accountability.
  <br>
 <br>
-<span style="color: blue"> [Download Paper (Last Version: January 2017)](https://www.dropbox.com/s/cof8us7e83avd25/sendyn.pdf?dl=0) </span>
+<span style="color: blue"> [Download Paper (Last Version: June 2017)](https://www.dropbox.com/s/cof8us7e83avd25/sendyn.pdf?dl=0) </span>
 
 
 

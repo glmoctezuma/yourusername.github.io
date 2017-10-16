@@ -8,7 +8,7 @@ permalink: /research/
 
 * [__Sequential Deliberation in Collective Decision-Making: The Case of the FOMC__](/research/seq).
 
-* [__The Dynamics of Electoral Accountability__](/research/sendyn) with
+* [__Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
@@ -22,15 +22,13 @@ permalink: /research/
 
 # Work in Progress
 
-* Biases in Speech and Forecasts of FOMC Members.
+* Structural Topic Model of FOMC Deliberations.
 
 * Dynamic Allocation of Political Advertising in Presidential
   Elections (with Matias Iaryczower and Gabriel Katz).
 
-* The Causal Effect of Campaign Contributions on Legislators' Voting
-  Behavior (with Matias Iaryczower).
-
-* Dynamics of Electoral Coalitions (with Anderson Frey and Sergio Montero)
+* An Empirical Model of Dynamic Electoral Competition with Coalition
+  Formation and Incumbency Advantage (with Anderson Frey and Sergio Montero)
 
 # Publications
 
