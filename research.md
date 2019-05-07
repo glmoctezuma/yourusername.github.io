@@ -12,25 +12,35 @@ permalink: /research/
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
-* [__Policy Deliberation and Voter Persuasion: Experimental Evidence from an Election in the Philippines__](/research/philippines)
-  with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche),
-  [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel Rubenson, and Cecilia Pe Lero.
 
-* [__Scaling Data from Multiple Sources: Analyzing FOMC Deliberations__](/research/m2ds)
-  with Ted Enamorado and
+* [__Scaling Data from Multiple Sources__](/research/m2ds) (R & R at
+  Political Analysis)
+  with  [Ted Enamorado](https://www.tedenamorado.com/) and
   [Marc Ratkovic](http://www.princeton.edu/~ratkovic/)
+
+* [__The Dynamics of Electoral Coalitions__](/research/coalition) with
+  [Anderson Frey](https://www.andersonfrey.com) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/ )
 
 # Work in Progress
 
-* Structural Topic Model of FOMC Deliberations.
+* Reputation for Competence: Evidence from the FOMC (with [Matias
+  Iaryczower](http://scholar.princeton.edu/miaryc/)).
 
-* Dynamic Allocation of Political Advertising in Presidential
-  Elections (with Matias Iaryczower and Gabriel Katz).
+* Forecast Biases among Experts: Evidence from the FOMC.
 
-* An Empirical Model of Dynamic Electoral Competition with Coalition
-  Formation and Incumbency Advantage (with Anderson Frey and Sergio Montero)
+*  Chasing Eyeballs: The Role of Consumer Advertising in Shaping Political Polarization (with [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/) and [Matt Shum](http://www.its.caltech.edu/~mshum/))
+
+* Sequential Decision-Making in the Supreme Court (with [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson))
+
+* Campaign Issues and Media Coverage (with[Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/))
+
+* Heterogeneous Voter Responses to Campaign Advertising ( with [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/))
+
 
 # Publications
+* [__Policy Deliberation and Voter Persuasion: Experimental Evidence from an Election in the Philippines__](/research/philippines)
+  with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche),
+  [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel Rubenson, and Cecilia Pe Lero.
 
 * [__Forecast Revisions of Mexican Inflation and GDP Growth__](/research/forerev) with
   [Carlos Capistran](http://www.carloscapistran.com/). International

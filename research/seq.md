@@ -5,24 +5,21 @@ permalink: /research/seq/
 ---
 
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>
-A process of deliberation, in which policymakers exchange information prior to
-formal voting procedures, precedes almost every collective decision. Yet, beyond scarce evidence coming from field and laboratory experiments, few
-studies have analyzed the role played by sequential deliberation in
-policy-relevant decision-making bodies. To fill this gap, I estimate an empirical model of policy-making that incorporates social learning
-via deliberation. In the model, committee members speak in sequence, allowing them to weight their
-own information and biases against recommendations made by others. The
-empirical application uses historical transcripts from the Federal Open Market Committee
-(FOMC), which is the body in charge of implementing monetary policy in
-the United States. I
-find the process of deliberation significantly changes members' policy
-recommendations compared to the case where members follow their
-private information. Incorporating
-sequential learning explains the pattern of individual
-recommendations and collective choices extremely well and improves the fit over behavioral
-models that ignore deliberation.
+I estimate a model of policymaking that incorporates
+social learning via deliberation. In the model, committee members
+speak in sequence, balancing their private information and
+biases against recommendations made by others. I quantify the extent
+of social learning in the Federal Open Market Committee. I find
+that the process of deliberation significantly changes individual behavior
+and aggregate monetary policy: the average committee member
+changes her recommendation in approximately 36 percent of the meetings
+after listening to previous speakers. Counterfactual simulations
+show that the observed deliberation order within the FOMC has been
+effective at reducing the probability of mistakes.
 <br>
+<span style="color: blue"> [Download Paper (Last Version: September, 2018](https://www.dropbox.com/s/7lbosyzr8sk0rph/sequential_ed_final_noapp.pdf?dl=0) </span>
 <br>
-<span style="color: blue"> [Download Paper (Last Version: September 2016)](https://www.dropbox.com/s/bd3tbsihtwjpanq/sequential.pdf?dl=0) </span>
+<span style="color: blue"> [Download Appendix](https://www.dropbox.com/s/6ii04lxft5pibex/sequential_ed_final_app.pdf?dl=0) </span>
 
 
 

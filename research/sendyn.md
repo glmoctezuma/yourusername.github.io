@@ -4,16 +4,24 @@ title: The Dynamics of Electoral Accountability
 permalink: /research/sendyn/
 ---
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>
-While elections can discipline elected politicians, the  power of electoral accountability varies depending on the characteristics of each politician and on the state of the electoral race. To quantify this relationship we use data on US senators who ran for office between 2000-2012 to structurally estimate a (dynamic) model of the problem of an incumbent politician running for reelection. %  In the model, senators who have idiosyncratic policy and office motivations choose strategically their policy position and TV-ads each period after observing their advantage in the polls. Their choices in turn influence voter support in the next period.
- We quantify the value that each senator gives to office relative to
- ideology, and provide ideal point estimates that incorporate
- strategic position-taking. We also provide individual and aggregate
- measures of electoral accountability as a function of the
- competitiveness of the election, and evaluate how advertising affects
- electoral accountability.
+We introduce a dynamic model of position-taking and advertising,
+in which politicians trade off policy and reelection. We estimate ca-
+reer concerns for US senators, and quantify how preferences for office
+and policy affect electoral accountability. Senators are typically willing
+to make significant policy concessions for electoral gains: the median
+senator is willing to give up 5% of the average distance between voters
+and politicians for a 1% increase in the probability of reelection. There
+is, however, substantial heterogeneity, which covaries with observable
+characteristics. Given estimated voter responsiveness, accountability is
+low on average, but high for office-motivated senators in competitive
+elections.
  <br>
 <br>
-<span style="color: blue"> [Download Paper (Last Version: June 2017)](https://www.dropbox.com/s/cof8us7e83avd25/sendyn.pdf?dl=0) </span>
+<span style="color: blue"> [Download Paper (Last Version: November,
+2018](https://www.dropbox.com/s/urxbkr4szkixdq8/careerdynamics_aer.pdf?dl=0)
+</span>
+<br>
+<span style="color: blue"> [Download Appendix](https://www.dropbox.com/s/tf76eq25b1yapdq/careerdynamics_appendix.pdf?dl=0) </span>
 
 
 
