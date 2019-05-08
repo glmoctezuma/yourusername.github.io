@@ -7,7 +7,7 @@ url: "http://glmoctezuma.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  glmoctezuma
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
 
