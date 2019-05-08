@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-# Caltech
+# California Institute of Technology
 
 * [Empirical Models in Political Economy](/teaching/gradseminar)
 
