@@ -32,7 +32,7 @@ permalink: /research/
 
 * Sequential Decision-Making in the Supreme Court (with [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson))
 
-* Campaign Issues and Media Coverage (with[Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/))
+* Campaign Issues and Media Coverage (with [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/))
 
 * Heterogeneous Voter Responses to Campaign Advertising ( with [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/))
 
