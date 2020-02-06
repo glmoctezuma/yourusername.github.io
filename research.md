@@ -13,7 +13,8 @@ permalink: /research/
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
 
-* [__Scaling Data from Multiple Sources__](/research/m2ds) (R & R at
+* [__Scaling Data from Multiple Sources__](/research/m2ds)
+  (Conditionally Accepted at
   Political Analysis)
   with  [Ted Enamorado](https://www.tedenamorado.com/) and
   [Marc Ratkovic](http://www.princeton.edu/~ratkovic/)
@@ -38,7 +39,9 @@ permalink: /research/
 
 
 # Publications
-* [__Policy Deliberation and Voter Persuasion: Experimental Evidence from an Election in the Philippines__](/research/philippines)
+* [__Policy Deliberation and Voter Persuasion: Experimental Evidence
+  from an Election in the Philippines__](/research/philippines)
+  (Forthcoming at AJPS)
   with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche),
   [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel Rubenson, and Cecilia Pe Lero.
 
