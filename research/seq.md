@@ -18,7 +18,7 @@ show that the observed deliberation order within the FOMC has been
 effective at reducing the probability of mistakes.
 <br>
 <span style="color: blue">
-[Download Paper (Last Version: November, 2019](https://www.dropbox.com/s/jght9gv2w1rf9wt/sequential8.pdf?dl=0) </span>
+[Download Paper (Last Version: November, 2019)](https://www.dropbox.com/s/jght9gv2w1rf9wt/sequential8.pdf?dl=0) </span>
 <br>
 <span style="color: blue"> [Download Appendix](https://www.dropbox.com/s/6ii04lxft5pibex/sequential_ed_final_app.pdf?dl=0) </span>
 
