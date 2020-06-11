@@ -18,10 +18,10 @@ campaign on, affecting the vote of the direct beneficiaries of the parties’ pl
 <br>
 <br>
 <span style="color: blue">
-[Download Paper (Last Version: January, 2019](https://www.dropbox.com/s/elrplf29jb05gyc/phil_ajps_rev_wn.pdf?dl=0)
+[Download Paper (Last Version: June, 2020](https://www.dropbox.com/s/icv07gqpykyz53e/phil_ajps_final_noapp.pdf?dl=0)
 </span>
 <br>
-<span style="color: blue"> [Download Appendix](https://www.dropbox.com/s/tweqo8bzq480ofq/appendix_ajps_revision2.pdf?dl=0) </span>
+<span style="color: blue"> [Download Appendix](https://www.dropbox.com/s/pql1tkr0je450wk/phil_ajps_final_supp.pdf?dl=0) </span>
 
 
 

@@ -1,20 +1,24 @@
 ---
 layout: page
-title: The Dynamics of Electoral Coalitions
+title: Sleeping with the Enemy: Effective Representation
+under Dynamic Electoral Competition
 permalink: /research/coalition/
 ---
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>
-We propose and structurally estimate a dynamic model of electoral competition that
-allows for strategic coordination between parties by way of common candidate nominations. In our model, holding office over time enables the incumbent party to (potentially) build an electoral advantage. Opposition parties (and voters) then face a stark
-dynamic tradeoff: a short-term ideology compromise via an electoral coalition offers
-the opportunity to remove the incumbent party from office, deplete its incumbency advantage, and thus level the electoral playing field in the future. This tradeoff provides
-a rationale for coalition formation in elections previously unrecognized in the literature. We take our model to data from Mexican municipal elections between 1987-2016
-and show that electoral coalitions have been a significant instrument of democratic
-consolidation in Mexico.
+Electoral coalitions between ideologically incompatible parties|among other unconventional
+electoral strategies|may seem to threaten effective representation, signaling
+a breakdown of programmatic politics. However, this perspective overlooks parties' and
+voters' dynamic considerations. We propose and estimate a model of dynamic electoral
+competition in which a short-term ideology compromise, via an electoral coalition, offers
+opposition parties (and voters) the opportunity to remove an entrenched incumbent
+party from office, thus leveling the playing field in the future. This tradeoff provides
+a previously unrecognized rationale for coalition formation in elections. We take our
+model to data from Mexican municipal elections between 1995-2016 and show that
+coalitions between parties on opposite ends of the ideology spectrum have served as an
+instrument of democratic consolidation
  <br>
 <br>
-<span style="color: blue"> [Download Paper (Last Version: August,
-2018)](https://www.dropbox.com/s/1gd0th4jw148lx0/dynamics.pdf?dl=0)
+<span style="color: blue"> [Download Paper (Last Version: June, 2020)](https://www.dropbox.com/s/9b0mlsb6hwnqshz/dynamics_mex.pdf?dl=0)
 </span>
 
 

@@ -12,15 +12,11 @@ permalink: /research/
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
-
-* [__Scaling Data from Multiple Sources__](/research/m2ds)
-  (Conditionally Accepted at
-  Political Analysis)
-  with  [Ted Enamorado](https://www.tedenamorado.com/) and
-  [Marc Ratkovic](http://www.princeton.edu/~ratkovic/)
-
 * [__The Dynamics of Electoral Coalitions__](/research/coalition) with
   [Anderson Frey](https://www.andersonfrey.com) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/ )
+
+* Sequential Decision-Making in the Supreme Court (with
+  [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson))
 
 # Work in Progress
 
@@ -31,14 +27,18 @@ permalink: /research/
 
 *  Chasing Eyeballs: The Role of Consumer Advertising in Shaping Political Polarization (with [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/) and [Matt Shum](http://www.its.caltech.edu/~mshum/))
 
-* Sequential Decision-Making in the Supreme Court (with [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson))
-
 * Campaign Issues and Media Coverage (with [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/))
 
 * Heterogeneous Voter Responses to Campaign Advertising ( with [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/))
 
 
 # Publications
+* [__Scaling Data from Multiple Sources__](/research/m2ds)
+  (Forthcoming at
+  Political Analysis)
+  with  [Ted Enamorado](https://www.tedenamorado.com/) and
+  [Marc Ratkovic](http://www.princeton.edu/~ratkovic/)
+
 * [__Policy Deliberation and Voter Persuasion: Experimental Evidence
   from an Election in the Philippines__](/research/philippines)
   (Forthcoming at AJPS)
