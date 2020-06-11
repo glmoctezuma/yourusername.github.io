@@ -8,8 +8,7 @@ permalink: /research/
 
 * [__Sequential Deliberation in Collective Decision-Making: The Case of the FOMC__](/research/seq).
 
-*
-  [__Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn)
+* [__Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn)
   (under submission) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
