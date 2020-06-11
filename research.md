@@ -8,11 +8,13 @@ permalink: /research/
 
 * [__Sequential Deliberation in Collective Decision-Making: The Case of the FOMC__](/research/seq).
 
-* [__Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn) with
+*
+  [__Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn)
+  (under submission) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
-* [__The Dynamics of Electoral Coalitions__](/research/coalition) with
+* [__The Dynamics of Electoral Coalitions__](/research/coalition) (under submission) with
   [Anderson Frey](https://www.andersonfrey.com) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/ )
 
 * Sequential Decision-Making in the Supreme Court (with
