@@ -13,7 +13,7 @@ competition in which a short-term ideology compromise, via an electoral coalitio
 opposition parties (and voters) the opportunity to remove an entrenched incumbent
 party from office, thus leveling the playing field in the future. This tradeoff provides
 a previously unrecognized rationale for coalition formation in elections. We take our
-model to data df m from Mexican municipal elections between 1995-2016 and show that
+model to data from Mexican municipal elections between 1995-2016 and show that
 coalitions between parties on opposite ends of the ideology spectrum have served as an
 instrument of democratic consolidation
  <br>
