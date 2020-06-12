@@ -20,6 +20,7 @@ instrument of democratic consolidation
 <br>
 <span style="color: blue"> [Download Paper (Last Version: June, 2020)](https://www.dropbox.com/s/9b0mlsb6hwnqshz/dynamics_mex.pdf?dl=0)
 </span>
+<span style="color: blue"> [Download Appendix](https://www.dropbox.com/s/4c7ids1t3agxxbl/dynamics_appendix.pdf?dl=0) </span>
 
 
 
