@@ -19,7 +19,7 @@ moderate on average, due to the relatively low impact of changes in senators'
 voting records on voter support.
  <br>
 <br>
-<span style="color: blue"> [Download Paper (Last Version: June, 2020](https://www.dropbox.com/s/9s1n6way2rdz9qo/dynamics.pdf?dl=0)
+<span style="color: blue"> [Download Paper (Last Version: June, 2020)](https://www.dropbox.com/s/9s1n6way2rdz9qo/dynamics.pdf?dl=0)
 </span>
 <br>
 <span style="color: blue"> [Download Appendix](https://www.dropbox.com/s/4mce5bwycapqpnk/careerdynamics_apsr_onlineapp.pdf?dl=0) </span>
