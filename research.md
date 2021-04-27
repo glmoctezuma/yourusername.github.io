@@ -6,37 +6,46 @@ permalink: /research/
 
 # Working Papers
 
-* [__Sequential Deliberation in Collective Decision-Making: The Case of the FOMC__](/research/seq).
-
-* [__Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn)
-  (under submission) with
+* [__The Dynamics of Electoral Coalitions__](/research/coalition)
+  (Conditionally accepted at the  *American Journal of Political Science*) with
+  [Anderson Frey](https://www.andersonfrey.com) and [Sergio
+  Montero](https://www.sas.rochester.edu/psc/smontero/ )
+  
+  * [__Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn)
+  (R&R at the *American Journal of Political Science*) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
-* [__The Dynamics of Electoral Coalitions__](/research/coalition) (under submission) with
-  [Anderson Frey](https://www.andersonfrey.com) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/ )
 
-* Sequential Decision-Making in the Supreme Court (with
+* [__Sequential Deliberation in Collective Decision-Making: The Case of the FOMC__](/research/seq).
+
+
+
+* [Social Learning Behind Closed Doors: Evidence from
+  Sequential Voting in the US Supreme Court](/research/seq_sc) (with
   [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson))
 
 # Work in Progress
 
 * Reputation for Competence: Evidence from the FOMC (with [Matias
   Iaryczower](http://scholar.princeton.edu/miaryc/)).
+  
+  * Social Learning in Groups: an Experimental Study  (with [Marina
+    Agranov](https://agranov.caltech.edu/), [Omer
+    Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/)).
 
-* Forecast Biases among Experts: Evidence from the FOMC.
+ * The Revealed Preferences of Small Donors  (with [Matias
+  Iaryczower](http://scholar.princeton.edu/miaryc/) and  [Ted Enamorado](https://www.tedenamorado.com/)).
 
 *  Chasing Eyeballs: The Role of Consumer Advertising in Shaping Political Polarization (with [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/) and [Matt Shum](http://www.its.caltech.edu/~mshum/))
 
-* Campaign Issues and Media Coverage (with [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/))
-
-* Heterogeneous Voter Responses to Campaign Advertising ( with [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/))
+* Scaling Votes and Words from the FOMC (with  with  [Ted Enamorado](https://www.tedenamorado.com/) and
+  [Marc Ratkovic](http://www.princeton.edu/~ratkovic/))
 
 
 # Publications
 * [__Scaling Data from Multiple Sources__](/research/m2ds)
-  (Forthcoming at
-  Political Analysis)
+  (*Political Analysis* (2021) Vol. 29, pp. 212-235)
   with  [Ted Enamorado](https://www.tedenamorado.com/) and
   [Marc Ratkovic](http://www.princeton.edu/~ratkovic/)
 
@@ -44,13 +53,16 @@ permalink: /research/
   from an Election in the Philippines__](/research/philippines)
   (Forthcoming at AJPS)
   with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche),
-  [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel Rubenson, and Cecilia Pe Lero.
+  [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel
+  Rubenson, and Cecilia Pe Lero.
+  
+  
+# Other Publications
 
 * [__Forecast Revisions of Mexican Inflation and GDP Growth__](/research/forerev) with
   [Carlos Capistran](http://www.carloscapistran.com/). International
   Journal of Forecasting, Vol. 30, No. 2, 2014, pp. 177-191.
 
-# Publications (In Spanish)
 
 * [__The Macroeconomic Expectations of Experts: An Evaluation of Mexican Short-run Forecasts__](/research/foreeff) with
   [Carlos Capistran](http://www.carloscapistran.com/). El Trimestre
