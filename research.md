@@ -51,7 +51,7 @@ permalink: /research/
 
 * [__Policy Deliberation and Voter Persuasion: Experimental Evidence
   from an Election in the Philippines__](/research/philippines)
-  (Forthcoming at AJPS)
+  (Forthcoming at the  *American Journal of Political Science*)
   with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche),
   [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel
   Rubenson, and Cecilia Pe Lero.
