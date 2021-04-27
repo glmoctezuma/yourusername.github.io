@@ -9,6 +9,8 @@ permalink: /teaching/
 
 * [Comparative Political Economy](/teaching/comparative)
 
+* [Topics in Political Economy](/teaching/topics)
+
 # Princeton University
 
 ## Instructor

@@ -21,8 +21,8 @@ permalink: /research/
 
 
 
-* [Social Learning Behind Closed Doors: Evidence from
-  Sequential Voting in the US Supreme Court](/research/seq_sc) (with
+* [__Social Learning Behind Closed Doors: Evidence from
+  Sequential Voting in the US Supreme Court__](/research/seq_sc) (with
   [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson))
 
 # Work in Progress
