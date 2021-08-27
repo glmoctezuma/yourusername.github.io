@@ -6,19 +6,13 @@ permalink: /research/
 
 # Working Papers
 
-* [__The Dynamics of Electoral Coalitions__](/research/coalition)
-  (Conditionally accepted at the  *American Journal of Political Science*) with
-  [Anderson Frey](https://www.andersonfrey.com) and [Sergio
-  Montero](https://www.sas.rochester.edu/psc/smontero/ )
-  
   * [__Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn)
-  (R&R at the *American Journal of Political Science*) with
+  (Conditionally accepted at the *American Journal of Political Science*) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
 
 * [__Sequential Deliberation in Collective Decision-Making: The Case of the FOMC__](/research/seq).
-
 
 
 * [__Social Learning Behind Closed Doors: Evidence from
@@ -44,6 +38,11 @@ permalink: /research/
 
 
 # Publications
+* [__The Dynamics of Electoral Coalitions__](/research/coalition)
+  (Forthcoming at the  *American Journal of Political Science*) with
+  [Anderson Frey](https://www.andersonfrey.com) and [Sergio
+  Montero](https://www.sas.rochester.edu/psc/smontero/ )
+  
 * [__Scaling Data from Multiple Sources__](/research/m2ds)
   (*Political Analysis* (2021) Vol. 29, pp. 212-235)
   with  [Ted Enamorado](https://www.tedenamorado.com/) and
