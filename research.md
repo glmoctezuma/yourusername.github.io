@@ -7,7 +7,7 @@ permalink: /research/
 # Working Papers
 
  
-* [__Sequential Deliberation in Collective Decision-Making: The Case of the FOMC__](/research/seq).
+* [Sequential Deliberation in Collective Decision-Making: The Case of the FOMC](/research/seq).
 
 * [__Social Learning Behind Closed Doors: Evidence from
   Sequential Voting in the US Supreme Court__](/research/seq_sc) (with
@@ -34,7 +34,7 @@ permalink: /research/
 
 
 # Publications
- * [_ Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn)
+ * [Career Concerns and the Dynamics of Electoral Accountability](/research/sendyn)
   (Forthcoming at the *American Journal of Political Science*) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
