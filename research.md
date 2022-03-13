@@ -6,27 +6,23 @@ permalink: /research/
 
 # Working Papers
 
-  * [_ Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn)
-  (Forthcoming at the *American Journal of Political Science*) with
-  [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
-  [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
-
-
+ 
 * [__Sequential Deliberation in Collective Decision-Making: The Case of the FOMC__](/research/seq).
-
 
 * [__Social Learning Behind Closed Doors: Evidence from
   Sequential Voting in the US Supreme Court__](/research/seq_sc) (with
   [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson))
+  
+    *[Learning through Imitation: an Experiment](/research/learning)  (with [Marina
+    Agranov](https://agranov.caltech.edu/), [Omer
+    Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/)).
+
 
 # Work in Progress
 
 * Reputation for Competence: Evidence from the FOMC (with [Matias
   Iaryczower](http://scholar.princeton.edu/miaryc/)).
   
-  * Social Learning in Groups: an Experimental Study  (with [Marina
-    Agranov](https://agranov.caltech.edu/), [Omer
-    Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/)).
 
  * The Revealed Preferences of Small Donors  (with [Matias
   Iaryczower](http://scholar.princeton.edu/miaryc/) and  [Ted Enamorado](https://www.tedenamorado.com/)).
@@ -38,6 +34,11 @@ permalink: /research/
 
 
 # Publications
+ * [_ Career Concerns and the Dynamics of Electoral Accountability__](/research/sendyn)
+  (Forthcoming at the *American Journal of Political Science*) with
+  [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
+  [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
+
 * [__The Dynamics of Electoral Coalitions__](/research/coalition)
   (Forthcoming at the  *American Journal of Political Science*) with
   [Anderson Frey](https://www.andersonfrey.com) and [Sergio
