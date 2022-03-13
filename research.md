@@ -7,13 +7,13 @@ permalink: /research/
 # Working Papers
 
  
-* [ Sequential Deliberation in Collective Decision-Making: The Case of the FOMC](/research/seq).
+* [**Sequential Deliberation in Collective Decision-Making: The Case of the FOMC**](/research/seq).
 
-* [__Social Learning Behind Closed Doors: Evidence from
-  Sequential Voting in the US Supreme Court__](/research/seq_sc) (with
+* [**Social Learning Behind Closed Doors: Evidence from
+  Sequential Voting in the US Supreme Court**](/research/seq_sc) (with
   [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson))
   
-* [ Learning through Imitation: an Experiment](/research/learning)  (with [Marina
+* [**Learning through Imitation: an Experiment**](/research/learning)  (with [Marina
     Agranov](https://agranov.caltech.edu/), [Omer
     Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/)).
 
