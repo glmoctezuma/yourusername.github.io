@@ -1,5 +1,5 @@
 ---
-layout: page&#58 <br> Evidence from Sequential Voting in the US Supreme Court
+layout: page&#58 <br> Learning through Imitation: an Experiment
 permalink: /research/learning/
 ---
 
