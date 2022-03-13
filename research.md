@@ -34,7 +34,7 @@ permalink: /research/
 
 
 # Publications
- * [Career Concerns and the Dynamics of Electoral Accountability](/research/sendyn)
+ * [**Career Concerns and the Dynamics of Electoral Accountability**](/research/sendyn)
   (Forthcoming at the *American Journal of Political Science*) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
