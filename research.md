@@ -10,7 +10,7 @@ permalink: /research/
 * [**Sequential Deliberation in Collective Decision-Making: The Case of the FOMC**](/research/seq).
 
 * [**Social Learning Behind Closed Doors: Evidence from
-  Sequential Voting in the US Supreme Court**](/research/seq_sc) (with
+  Seniority Voting in the US Supreme Court**](/research/seq_sc) (with
   [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson))
   
 * [**Learning through Imitation: an Experiment**](/research/learning)  (with [Marina
