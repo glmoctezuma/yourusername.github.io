@@ -19,7 +19,7 @@ permalink: /research/
 
 * [**Reputation in a Committee with Multiple Principals: The Case of
   the FOMC**](/research/reputation) (with [Matias
-  Iaryczower] (http://scholar.princeton.edu/miaryc/) and Paola Moscariello).
+  Iaryczower](http://scholar.princeton.edu/miaryc/) and Paola Moscariello).
   
 
  * [**Money and Votes in Electoral Competition: Evidence from the US Senate**](/research/donors.md)  (with [Matias
