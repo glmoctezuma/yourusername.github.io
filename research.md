@@ -17,15 +17,16 @@ permalink: /research/
     Agranov](https://agranov.caltech.edu/), [Omer
     Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/)).
 
-
-# Work in Progress
-
-* Reputation for Competence: Evidence from the FOMC (with [Matias
-  Iaryczower](http://scholar.princeton.edu/miaryc/)).
+* [**Reputation in a Committee with Multiple Principals: The Case of
+  the FOMC**](/research/reputation) (with [Matias
+  Iaryczower] (http://scholar.princeton.edu/miaryc/) and Paola Moscariello).
   
 
- * The Revealed Preferences of Small Donors  (with [Matias
+ * [**Money and Votes in Electoral Competition: Evidence from the US Senate**](/research/donors.md)  (with [Matias
   Iaryczower](http://scholar.princeton.edu/miaryc/) and  [Ted Enamorado](https://www.tedenamorado.com/)).
+
+
+# Work in Progress
 
 *  Chasing Eyeballs: The Role of Consumer Advertising in Shaping Political Polarization (with [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/) and [Matt Shum](http://www.its.caltech.edu/~mshum/))
 
