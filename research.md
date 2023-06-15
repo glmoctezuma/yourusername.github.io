@@ -11,7 +11,9 @@ permalink: /research/
 
 * [**Social Learning Behind Closed Doors: Evidence from
   Seniority Voting in the US Supreme Court**](/research/seq_sc) (with
-  [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson)), R & R
+  [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson)).
+  
+  R & R
   at the Journal of Politics.
   
 * [**Learning through Imitation: an Experiment**](/research/learning)  (with [Marina
